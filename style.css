@@ -39,71 +39,7 @@
   display: block;
   text-align: center;
 }
-/*MENÇÕES HONROSAS CSS*/
-.h12/*H1 texto principal MH*/
-{
-  -webkit-text-stroke:/*nenhuma por enquanto*/;
-  color: greenyellow;
-  text-align: center;
-  font-size: 25px;
-  text-transform: uppercase;
-}
-.h22/*h2 das meções honrosas*/
-{
-  text-align: center;
-  color: greenyellow; 
-  font-size:25px; 
-  border: 1px white;
-}
-.p2 p/*paragrafos MH*/
-{
-  color: greenyellow;
-  font-size:20px;
-  background-color: #6d7ba3;
-  border-radius: 15px;
-  border: 5px solid greenyellow;
-  padding: 5px;
-  font-weight: bold;
-  
-}
-.link2/*links mencoes honrosas*/
-{
-    background-color: #6d7ba3;
-    border-radius: 15px;
-    padding: 10px;
-    margin: 10px;
-    display: block;
-    border: 5px solid greenyellow;
-    text-align: center;
-}
-.link2 a/*links mencoes honrosas*/
-{
-   color: greenyellow;
- font-size:30px;
-    font-family: 'Roboto Condensed', sans-serif;
-    padding: 5px;
-    text-decoration: none;
-    font-weight: bold;
-  display: block;
-  text-align: center;
-}
-.img2/*container imagens MH*/
-{
- display: flex;
-  justify-content: center;
-  gap: 15px;
-  flex-wrap: wrap;
-  padding: 5px;
-}
-.img2 img/*imagens*/
-{
-  width: 350px;
-  height: 250px;
-  border: 7px solid greenyellow;
-  border-radius: 15px;
-  flex: 0 0 auto;
-}
-/*FIM*/
+
 .p p/*paragrafos*/
 {
   color: white;
